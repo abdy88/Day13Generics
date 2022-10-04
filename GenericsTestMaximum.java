@@ -1,5 +1,6 @@
 package bl.com.generics;
 
+//UC1
 public class GenericsTestMaximum {
 
 	public static void main(String[] args) {
